@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Cours 2 Bac SVT
 
-  () | Chapitre                                     
+  <span> | Chapitre                                     
 ---|----------------------------------------------
  1 | Limites et continuité                        
 
