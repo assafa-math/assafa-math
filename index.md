@@ -6,19 +6,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Cours 2 Bac SVT
 
-|     | Chapitre |
-|:---:|--------|
-|   1 | Limites et continuité                            |
-|   2 |          |
-|   3 |          |
+|   | Chapitre                                         |
+|:-:|--------------------------------------------------|
+| 1 | Limites et continuité                            |
+| 2 |                                                  |
+| 3 |                                                  |
 
 ### Cours du TCS
-|     | Chapitre |
-|:---:|--------|
-|   1 | Ensemble N et notions d'aréthmitique             |
-|   2 |          |
-|   3 |          |
-
+|   | Chapitre                                         |
+|:-:|--------------------------------------------------|
+| 1 | Ensemble N et notions d'aréthmitique             |
+| 2 |                                                  |
+| 3 |                                                  |
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
