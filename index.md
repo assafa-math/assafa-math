@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/assafa-math/assafa-math/ed
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Cours 2 Bac SVT
-| <!-- -->    | <!-- -->    |
+| <span>    |   |
 |-------------|-------------|
 | Foo         | Bar         |
 
