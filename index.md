@@ -1,10 +1,10 @@
-## Liste des cours 2020-2021
+## Présentation
 
 You can use the [editor on GitHub](https://github.com/assafa-math/assafa-math/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Cours 2 Bac SVT
+## Cours 2 Bac SVT
 
 |   | Chapitre                                         |
 |:-:|--------------------------------------------------|
@@ -12,13 +12,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 | 2 |                                                  |
 | 3 |                                                  |
 
-### Cours du TCS
+## Cours du TCS
+
 |   | Chapitre                                         |
 |:-:|--------------------------------------------------|
 | 1 | Ensemble N et notions d'aréthmitique             |
 | 2 |                                                  |
 | 3 |                                                  |
 
+## Source Latex
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
