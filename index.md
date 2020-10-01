@@ -1,11 +1,11 @@
-## Liste des cours de l'année scolaire 2020-2021
+## Liste des cours 2020-2021
 
 You can use the [editor on GitHub](https://github.com/assafa-math/assafa-math/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Cours de deuxième année Baccalauréat, section SVT
-### Cours du Troc Commun scientifique
+### Cours 2 Bac SVT
+### Cours du TCS
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
