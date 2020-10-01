@@ -7,14 +7,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Cours 2 Bac SVT
 
   <span> | Chapitre                                     
----|----------------------------------------------
- 1 | Limites et continuité                        
+---------|----------------------------------------------
+       1 | Limites et continuité                        
 
 ### Cours du TCS
 
-    | Chapitre                                     |
-|---|----------------------------------------------|
-| 1 | Ensemble N et notions d'aréthmitique         |
+  <span> | Chapitre                                     
+---------|----------------------------------------------
+       1 | Ensemble N et notions d'aréthmitique         
 
 
 
