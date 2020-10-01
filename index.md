@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 |   | Chapitre                                         |
 |:-:|--------------------------------------------------|
-| 1 | Limites et continuité [النهايات و الإتصال]{style="float:right"}        |
+| 1 | Limites et continuité &emsp; النهايات و الإتصال   |
 | 2 |                                                  |
 | 3 |                                                  |
 
