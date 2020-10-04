@@ -1,10 +1,10 @@
-## Présentation
+## Accueil
 
-You can use the [editor on GitHub](https://github.com/assafa-math/assafa-math/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cette page est mise en place pour servir des cours et d'autres documents à mes éléves du TCS et du 2BSVT de l'année scolaire 2020-2021. Il y sera également possible de télécharger gratuitement les sources de mes productions.
 
 ## Cours 2 Bac SVT
+
+Liste des cours, téléchargeable en format pdf, de la deuxième année du Baccalauréat section Sciences de la Vie et de la Terre (SVT).
 
 |   | Chapitre                                         |
 |:-:|--------------------------------------------------|
@@ -14,6 +14,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Cours du TCS
 
+Liste des cours, téléchargeable en format pdf, du Tronc Commun Scientifique (TCS) du Baccalauréat International Option Française (BIOF).
+
 |   | Chapitre                                         |
 |:-:|--------------------------------------------------|
 | 1 | Ensemble N et notions d'aréthmitique             |
@@ -21,32 +23,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 | 3 |                                                  |
 
 ## Source Latex
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Tous les sources de mes productions latex sont téléchargeables sur ce [dossier de Google Drive](https://drive.google.com/drive/folders/1tEMNsAV1mdJzflv4ey-Z7sBmRegdOU7C?usp=sharing).
 
-# Header 1
-## Header 2
-### Header 3
+## Support et Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/assafa-math/assafa-math/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Pour tout information contacter moi sur [staryass@hotmail.fr](staryass@hotmail.fr).
