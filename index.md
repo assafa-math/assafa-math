@@ -18,7 +18,7 @@ Liste des cours, téléchargeable en format pdf, du Tronc Commun Scientifique (T
 
 |   | Chapitre                                         |
 |:-:|--------------------------------------------------|
-| 1 | Ensemble N et notions d'aréthmitique             |
+| 1 | [Ensemble N et notions d'aréthmitique](pdfs/TCS/chap1.pdf)             |
 | 2 |                                                  |
 | 3 |                                                  |
 
