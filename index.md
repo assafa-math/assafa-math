@@ -24,4 +24,4 @@ Liste des cours, téléchargeable en format pdf, du Tronc Commun Scientifique (T
 
 ## Support et Contact
 
-Pour tout information contacter moi sur [staryass@hotmail.fr](staryass@hotmail.fr).
+Pour toute information complémentaire contacter moi sur [staryass@hotmail.fr](staryass@hotmail.fr).
