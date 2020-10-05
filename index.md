@@ -8,7 +8,7 @@ Liste des cours, téléchargeable en format pdf, de la deuxième année du Bacca
 
 |   | Chapitre                                         |
 |:-:|--------------------------------------------------|
-| 1 | Limites et continuité &emsp; النهايات و الإتصال   |
+| 1 | [Limites et continuité &emsp; النهايات و الإتصال](pdfs/2BSVT/chap1.pdf)   |
 | 2 |                                                  |
 | 3 |                                                  |
 
