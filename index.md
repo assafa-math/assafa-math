@@ -2,7 +2,7 @@
 
 Cette page est mise en place pour servir des cours et d'autres documents à mes éléves du TCS et du 2BSVT de l'année scolaire 2020-2021.
 
-## Cours 2 Bac SVT
+## Cours 2BSVT
 
 Liste des cours, téléchargeable en format pdf, de la deuxième année du Baccalauréat section Sciences de la Vie et de la Terre (SVT).
 
@@ -12,7 +12,7 @@ Liste des cours, téléchargeable en format pdf, de la deuxième année du Bacca
 | 2 |                                                                          |                           |
 | 3 |                                                                          |                           |
 
-## Cours du TCS
+## Cours TCS
 
 Liste des cours, téléchargeable en format pdf, du Tronc Commun Scientifique (TCS) du Baccalauréat International Option Française (BIOF).
 
