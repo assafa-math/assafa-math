@@ -1,2 +1,5 @@
+markdown: kramdown
+kramdown:
+    math_engine: katex
 theme: jekyll-theme-leap-day
 header: images/header.jpg
