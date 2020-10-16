@@ -12,6 +12,15 @@ Liste des cours, téléchargeable en format pdf, de la deuxième année du Bacca
 | 2 |                                                                          |                           |
 | 3 |                                                                          |                           |
 
+Liste des cours, téléchargeable en format pdf, de la première année du Baccalauréat section Sciences Expérimentales (SE), indisponsable pour 2BSVT.
+
+|    | Chapitre                                                                                    | Série                      |
+|:--:|---------------------------------------------------------------------------------------------|:--------------------------:|
+| 8  | [Limites &emsp; النهايات](pdfs/1BSE/chap8.pdf)                                              | [TD8](pdfs/1BSE/TD8.pdf)   |
+| 9  | [Dérivation &emsp; الاشتقاق](pdfs/1BSE/chap9.pdf)                                            | [TD9](pdfs/1BSE/TD9.pdf)   |
+| 10 | [Représentation graphique d'une fonction &emsp; التمثيل المبياي لدالة](pdfs/1BSE/chap10.pdf) | [TD10](pdfs/1BSE/TD10.pdf) |
+| 11 | [Géométrie de l'espace &emsp; الهندية الفضائية](pdfs/1BSE/chap11.pdf)                        | [TD11](pdfs/1BSE/TD11.pdf) |
+
 ## Cours TCS
 
 Liste des cours, téléchargeable en format pdf, du Tronc Commun Scientifique (TCS) du Baccalauréat International Option Française (BIOF).
