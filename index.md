@@ -28,7 +28,7 @@ Liste des cours, téléchargeable en format pdf, du Tronc Commun Scientifique (T
 |   | Chapitre                                                                |
 |:-:|-------------------------------------------------------------------------|
 | 1 | [Ensemble N et notions d'arithmétique](pdfs/TCS/chap1.pdf)              |
-| 2 |                                                                         |
+| 2 | [Calcul vectoriel dans le plan](pdfs/TCS/chap2.pdf)                     |
 | 3 |                                                                         |
 
 ## Support et Contact
