@@ -1,4 +1,4 @@
 title: Cours et exercices des mathématiques
-markdown: maruku
+markdown: kramdown
 use_math: true
 theme: jekyll-theme-leap-day
