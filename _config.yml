@@ -1,6 +1,6 @@
+title: Cours et exercices des mathématiques
 markdown: kramdown
 kramdown:
     math_engine: mathjax
 theme: jekyll-theme-leap-day
-title: Cours et exercices des mathématiques
 header: images/header.jpg
