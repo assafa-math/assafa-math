@@ -1,6 +1,3 @@
----
-use_math: true
----
 ## Accueil
 
 Cette page est mise en place pour servir des cours et d'autres documents à mes éléves du TCS et du 2BSVT de l'année scolaire 2020-2021.
