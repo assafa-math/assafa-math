@@ -9,15 +9,16 @@ Liste des cours, téléchargeable en format pdf, de la deuxième année du Bacca
 |    | Chapitre                                                                 | Série                     |
 |:--:|--------------------------------------------------------------------------|:-------------------------:|
 | 1  | [Limites et continuité &emsp; النهايات و الإتصال](pdfs/2BSVT/chap1.pdf)   | [TD1](pdfs/2BSVT/TD1.pdf) |
-| 2  |                                                                          |                           |
-| 3  |                                                                          |                           |
-| 4  |                                                                          |                           |
-| 5  |                                                                          |                           |
-| 6  |                                                                          |                           |
-| 7  |                                                                          |                           |
-| 8  |                                                                          |                           |
-| 9  |                                                                          |                           |
-| 10 |                                                                          |                           |
+| 2  | Dérivation et ses applications &emsp; الاشتقاق و تطبيقاته                 |                           |
+| 3  | Limite d'une suite numérique &emsp; نهاية متتالية عددية                   |                           |
+| 4  | Fonctions logarithmiques &emsp; الدوال اللوعاريتمية                      |                           |
+| 5  | Fonctions exponnentielles &emsp; الدوال الأسية                            |                           |
+| 6  | Nombres complexes &emsp; الأعداد العقدية                                  |                           |
+| 7  | Équations différentielles &emsp; المعادلات التفاضلية                       |                           |
+| 8  | Calcul intégral &emsp; الحساب التكاملي                                    |                           |
+| 9  | Produit scalaire dans l'espace &emsp; الجداء السلمي في الفضاء              |                           |
+| 10 | Produit vectoriel &emsp; الجداء المتجهي                                    |                           |
+| 11 | Probabilités &emsp; الأحتمالات                                             |                           |
 
 Liste des cours, téléchargeable en format pdf, de la première année du Baccalauréat section Sciences Expérimentales (SE), indisponsable pour 2BSVT.
 
