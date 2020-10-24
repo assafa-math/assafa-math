@@ -11,7 +11,7 @@ Liste des cours, téléchargeable en format pdf, de la deuxième année du Bacca
 | 1  | [Limites et continuité &emsp; النهايات و الإتصال](pdfs/2BSVT/chap1.pdf)   | [TD1](pdfs/2BSVT/TD1.pdf) |
 | 2  | Dérivation et ses applications &emsp; الاشتقاق و تطبيقاته                 |                           |
 | 3  | Limite d'une suite numérique &emsp; نهاية متتالية عددية                   |                           |
-| 4  | Fonctions logarithmiques &emsp; الدوال اللوعاريتمية                      |                           |
+| 4  | Fonctions logarithmiques &emsp; الدوال اللوغاريتمية                      |                           |
 | 5  | Fonctions exponnentielles &emsp; الدوال الأسية                            |                           |
 | 6  | Nombres complexes &emsp; الأعداد العقدية                                  |                           |
 | 7  | Équations différentielles &emsp; المعادلات التفاضلية                       |                           |
