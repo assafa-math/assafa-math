@@ -6,11 +6,18 @@ Cette page est mise en place pour servir des cours et d'autres documents à mes 
 
 Liste des cours, téléchargeable en format pdf, de la deuxième année du Baccalauréat section Sciences de la Vie et de la Terre (SVT).
 
-|   | Chapitre                                                                 | Série                     |
-|:-:|--------------------------------------------------------------------------|:-------------------------:|
-| 1 | [Limites et continuité &emsp; النهايات و الإتصال](pdfs/2BSVT/chap1.pdf)   | [TD1](pdfs/2BSVT/TD1.pdf) |
-| 2 |                                                                          |                           |
-| 3 |                                                                          |                           |
+|    | Chapitre                                                                 | Série                     |
+|:--:|--------------------------------------------------------------------------|:-------------------------:|
+| 1  | [Limites et continuité &emsp; النهايات و الإتصال](pdfs/2BSVT/chap1.pdf)   | [TD1](pdfs/2BSVT/TD1.pdf) |
+| 2  |                                                                          |                           |
+| 3  |                                                                          |                           |
+| 4  |                                                                          |                           |
+| 5  |                                                                          |                           |
+| 6  |                                                                          |                           |
+| 7  |                                                                          |                           |
+| 8  |                                                                          |                           |
+| 9  |                                                                          |                           |
+| 10 |                                                                          |                           |
 
 Liste des cours, téléchargeable en format pdf, de la première année du Baccalauréat section Sciences Expérimentales (SE), indisponsable pour 2BSVT.
 
@@ -25,11 +32,18 @@ Liste des cours, téléchargeable en format pdf, de la première année du Bacca
 
 Liste des cours, téléchargeable en format pdf, du Tronc Commun Scientifique (TCS) du Baccalauréat International Option Française (BIOF).
 
-|   | Chapitre                                                                |
-|:-:|-------------------------------------------------------------------------|
-| 1 | [Ensemble $\mathbb{N}$ et notions d'arithmétique](pdfs/TCS/chap1.pdf)              |
-| 2 | [Calcul vectoriel dans le plan](pdfs/TCS/chap2.pdf)                     |
-| 3 |                                                                         |
+|    | Chapitre                                                                 |
+|:--:|--------------------------------------------------------------------------|
+| 1  | [Ensemble $\mathbb{N}$ et notions d'arithmétique](pdfs/TCS/chap1.pdf)    |
+| 2  | [Calcul vectoriel dans le plan](pdfs/TCS/chap2.pdf)                      |
+| 3  |                                                                          |
+| 4  |                                                                          |
+| 5  |                                                                          |
+| 6  |                                                                          |
+| 7  |                                                                          |
+| 8  |                                                                          |
+| 9  |                                                                          |
+| 10 |                                                                          |
 
 ## Support et Contact
 
