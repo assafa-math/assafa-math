@@ -18,7 +18,7 @@ Liste des cours, téléchargeable en format pdf, de la deuxième année du Bacca
 | 8  | Calcul intégral &emsp; الحساب التكاملي                                    |                           |
 | 9  | Produit scalaire dans l'espace &emsp; الجداء السلمي في الفضاء              |                           |
 | 10 | Produit vectoriel &emsp; الجداء المتجهي                                    |                           |
-| 11 | Probabilités &emsp; الأحتمالات                                             |                           |
+| 11 | Probabilités &emsp; الإحتمالات                                             |                           |
 
 Liste des cours, téléchargeable en format pdf, de la première année du Baccalauréat section Sciences Expérimentales (SE), indisponsable pour 2BSVT.
 
