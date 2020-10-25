@@ -2,9 +2,9 @@
 
 Cette page est mise en place pour servir des cours et d'autres documents à mes éléves du TCS et du 2BSVT de l'année scolaire 2020-2021.
 
-## Cours 2BSVT
+## Cours et TDs 2BSVT
 
-Liste des cours, téléchargeable en format pdf, de la deuxième année du Baccalauréat section Sciences de la Vie et de la Terre (SVT).
+Liste des cours et TDs, téléchargeable en format pdf, de la deuxième année du Baccalauréat section Sciences de la Vie et de la Terre (SVT).
 
 |    | Chapitre                                                                 | Série                     |
 |:--:|--------------------------------------------------------------------------|:-------------------------:|
@@ -20,7 +20,7 @@ Liste des cours, téléchargeable en format pdf, de la deuxième année du Bacca
 | 10 | Produit vectoriel &emsp; الجداء المتجهي                                    |                           |
 | 11 | Probabilités &emsp; الإحتمالات                                             |                           |
 
-Liste des cours, téléchargeable en format pdf, de la première année du Baccalauréat section Sciences Expérimentales (SE), indisponsable pour 2BSVT.
+Liste des cours et TDs, téléchargeable en format pdf, de la première année du Baccalauréat section Sciences Expérimentales (SE), indisponsable pour 2BSVT.
 
 |    | Chapitre                                                                                    | Série                      |
 |:--:|---------------------------------------------------------------------------------------------|:--------------------------:|
@@ -29,9 +29,9 @@ Liste des cours, téléchargeable en format pdf, de la première année du Bacca
 | 10 | [Représentation graphique d'une fonction &emsp; التمثيل المبياي لدالة](pdfs/1BSE/chap10.pdf) | [TD10](pdfs/1BSE/TD10.pdf) |
 | 11 | [Géométrie de l'espace &emsp; الهندية الفضائية](pdfs/1BSE/chap11.pdf)                        | [TD11](pdfs/1BSE/TD11.pdf) |
 
-## Cours TCS
+## Cours avec TDs TCS
 
-Liste des cours, téléchargeable en format pdf, du Tronc Commun Scientifique (TCS) du Baccalauréat International Option Française (BIOF).
+Liste des cours avec TDs, téléchargeable en format pdf, du Tronc Commun Scientifique (TCS) du Baccalauréat International Option Française (BIOF).
 
 |    | Chapitre                                                                 |
 |:--:|--------------------------------------------------------------------------|
