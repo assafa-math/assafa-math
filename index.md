@@ -33,18 +33,18 @@ Liste des cours et TDs, téléchargeable en format pdf, de la première année d
 
 Liste des cours avec TDs, téléchargeable en format pdf, du Tronc Commun Scientifique (TCS) du Baccalauréat International Option Française (BIOF).
 
-|    | Chapitre                                                                 |
-|:--:|--------------------------------------------------------------------------|
-| 1  | [Ensemble $\mathbb{N}$ et notions d'arithmétique](pdfs/TCS/chap1.pdf)    |
-| 2  | [Calcul vectoriel dans le plan](pdfs/TCS/chap2.pdf)                      |
-| 3  |                                                                          |
-| 4  |                                                                          |
-| 5  |                                                                          |
-| 6  |                                                                          |
-| 7  |                                                                          |
-| 8  |                                                                          |
-| 9  |                                                                          |
-| 10 |                                                                          |
+|    | Chapitre                                                                                                  |
+|:--:|-----------------------------------------------------------------------------------------------------------|
+| 1  | [Ensemble $\mathbb{N}$ et notions d'arithmétique](pdfs/TCS/chap1.pdf)                                     |
+| 2  | [Calcul vectoriel dans le plan](pdfs/TCS/chap2.pdf)                                                       |
+| 3  | [Ensembles $\mathbb{N}$, $\mathbb{Z}$, $\mathbb{D}$, $\mathbb{Q}$ et $\mathbb{R}$](pdfs/TCS/chap3.pdf)    |
+| 4  |                                                                                                           |
+| 5  |                                                                                                           |
+| 6  |                                                                                                           |
+| 7  |                                                                                                           |
+| 8  |                                                                                                           |
+| 9  |                                                                                                           |
+| 10 |                                                                                                           |
 
 ## Support et Contact
 
