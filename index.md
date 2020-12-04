@@ -6,19 +6,19 @@ Cette page est mise en place pour servir des cours et d'autres documents à mes 
 
 Liste des cours et TDs, téléchargeable en format pdf, de la deuxième année du Baccalauréat section Sciences de la Vie et de la Terre (SVT).
 
-|    | Chapitre                                                                 | Série                     |
-|:--:|--------------------------------------------------------------------------|:-------------------------:|
-| 1  | [Limites et continuité &emsp; النهايات و الإتصال](pdfs/2BSVT/chap1.pdf)   | [TD1](pdfs/2BSVT/TD1.pdf) |
-| 2  | Dérivation et ses applications &emsp; الاشتقاق و تطبيقاته                 |                           |
-| 3  | Limite d'une suite numérique &emsp; نهاية متتالية عددية                   |                           |
-| 4  | Fonctions logarithmiques &emsp; الدوال اللوغاريتمية                      |                           |
-| 5  | Fonctions exponnentielles &emsp; الدوال الأسية                            |                           |
-| 6  | Nombres complexes &emsp; الأعداد العقدية                                  |                           |
-| 7  | Équations différentielles &emsp; المعادلات التفاضلية                       |                           |
-| 8  | Calcul intégral &emsp; الحساب التكاملي                                    |                           |
-| 9  | Produit scalaire dans l'espace &emsp; الجداء السلمي في الفضاء              |                           |
-| 10 | Produit vectoriel &emsp; الجداء المتجهي                                    |                           |
-| 11 | Probabilités &emsp; الإحتمالات                                             |                           |
+|    | Chapitre                                                                            | Série                     |
+|:--:|-------------------------------------------------------------------------------------|:-------------------------:|
+| 1  | [Limites et continuité &emsp; النهايات و الإتصال](pdfs/2BSVT/chap1.pdf)              | [TD1](pdfs/2BSVT/TD1.pdf) |
+| 2  | [Dérivation et ses applications &emsp; الاشتقاق و تطبيقاته](pdfs/2BSVT/chap2.pdf)    | [TD2](pdfs/2BSVT/TD2.pdf) |
+| 3  | Limite d'une suite numérique &emsp; نهاية متتالية عددية                              |                           |
+| 4  | Fonctions logarithmiques &emsp; الدوال اللوغاريتمية                                 |                           |
+| 5  | Fonctions exponnentielles &emsp; الدوال الأسية                                       |                           |
+| 6  | Nombres complexes &emsp; الأعداد العقدية                                             |                           |
+| 7  | Équations différentielles &emsp; المعادلات التفاضلية                                  |                           |
+| 8  | Calcul intégral &emsp; الحساب التكاملي                                               |                           |
+| 9  | Produit scalaire dans l'espace &emsp; الجداء السلمي في الفضاء                         |                           |
+| 10 | Produit vectoriel &emsp; الجداء المتجهي                                               |                           |
+| 11 | Probabilités &emsp; الإحتمالات                                                        |                           |
 
 Liste des cours et TDs, téléchargeable en format pdf, de la première année du Baccalauréat section Sciences Expérimentales (SE), indisponsable pour 2BSVT.
 
