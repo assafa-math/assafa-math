@@ -38,7 +38,7 @@ Liste des cours avec TDs, téléchargeable en format pdf, du Tronc Commun Scient
 | 1  | [Ensemble $\mathbb{N}$ et notions d'arithmétique](pdfs/TCS/chap1.pdf)                                     |
 | 2  | [Calcul vectoriel dans le plan](pdfs/TCS/chap2.pdf)                                                       |
 | 3  | [Ensembles $\mathbb{N}$, $\mathbb{Z}$, $\mathbb{D}$, $\mathbb{Q}$ et $\mathbb{R}$](pdfs/TCS/chap3.pdf)    |
-| 4  |                                                                                                           |
+| 4  | [Projection dans le plan](pdfs/TCS/chap4.pdf)                                                       |
 | 5  |                                                                                                           |
 | 6  |                                                                                                           |
 | 7  |                                                                                                           |
