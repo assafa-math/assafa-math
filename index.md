@@ -40,7 +40,7 @@ Liste des cours avec TDs, téléchargeable en format pdf, du Tronc Commun Scient
 | 3  | [Ensembles $\mathbb{N}$, $\mathbb{Z}$, $\mathbb{D}$, $\mathbb{Q}$ et $\mathbb{R}$](pdfs/TCS/chap3.pdf)    |
 | 4  | [Projection dans le plan](pdfs/TCS/chap4.pdf)                                                             |
 | 5  | [Ordre dans $\mathbb{R}$](pdfs/TCS/chap5.pdf)                                                             |
-| 6  |                                                                                                           |
+| 6  | [Polynômes](pdfs/TCS/chap6.pdf)                                                                           |
 | 7  |                                                                                                           |
 | 8  |                                                                                                           |
 | 9  |                                                                                                           |
