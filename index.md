@@ -24,6 +24,7 @@ Liste des cours et TDs, téléchargeable en format pdf, de la première année d
 
 |    | Chapitre                                                                                    | Série                      |
 |:--:|---------------------------------------------------------------------------------------------|:--------------------------:|
+| 3  | [Suites numériques &emsp; المتتاليات العددية](pdfs/1BSE/chap3.pdf)                           | [TD3](pdfs/1BSE/TD3.pdf)   |
 | 8  | [Limites &emsp; النهايات](pdfs/1BSE/chap8.pdf)                                              | [TD8](pdfs/1BSE/TD8.pdf)   |
 | 9  | [Dérivation &emsp; الاشتقاق](pdfs/1BSE/chap9.pdf)                                            | [TD9](pdfs/1BSE/TD9.pdf)   |
 | 10 | [Représentation graphique d'une fonction &emsp; التمثيل المبياي لدالة](pdfs/1BSE/chap10.pdf) | [TD10](pdfs/1BSE/TD10.pdf) |
