@@ -42,7 +42,7 @@ Liste des cours avec TDs, téléchargeable en format pdf, du Tronc Commun Scient
 | 4  | [Projection dans le plan](pdfs/TCS/chap4.pdf)                                                             |
 | 5  | [Ordre dans $\mathbb{R}$](pdfs/TCS/chap5.pdf)                                                             |
 | 6  | [Polynômes](pdfs/TCS/chap6.pdf)                                                                           |
-| 7  |                                                                                                           |
+| 7  | [Équations, inéquations et systèmes](pdfs/TCS/chap7.pdf)                                                  |
 | 8  |                                                                                                           |
 | 9  |                                                                                                           |
 | 10 |                                                                                                           |
