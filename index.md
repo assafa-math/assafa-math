@@ -13,7 +13,7 @@ Liste des cours et TDs, téléchargeable en format pdf, de la deuxième année d
 | 3  | [Limite d'une suite numérique &emsp; نهاية متتالية عددية](pdfs/2BSVT/chap3.pdf)      | [TD3](pdfs/2BSVT/TD3.pdf) |
 | 4  | [Fonctions logarithmiques &emsp; الدوال اللوغاريتمية](pdfs/2BSVT/chap4.pdf)         | TD4                       |
 | 5  | [Fonctions exponnentielles &emsp; الدوال الأسية](pdfs/2BSVT/chap5.pdf)               | TD5                       |
-| 6  | Nombres complexes &emsp; الأعداد العقدية                                             |                           |
+| 6  | [Nombres complexes &emsp; الأعداد العقدية](pdfs/2BSVT/chap6.pdf)                     | TD6                       |
 | 7  | Équations différentielles &emsp; المعادلات التفاضلية                                  |                           |
 | 8  | Calcul intégral &emsp; الحساب التكاملي                                               |                           |
 | 9  | Produit scalaire dans l'espace &emsp; الجداء السلمي في الفضاء                         |                           |
