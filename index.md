@@ -44,7 +44,7 @@ Liste des cours avec TDs, téléchargeable en format pdf, du Tronc Commun Scient
 | 6  | [Polynômes](pdfs/TCS/chap6.pdf)                                                                           |
 | 7  | [Équations, inéquations et systèmes](pdfs/TCS/chap7.pdf)                                                  |
 | 8  | [Droite dans le plan](pdfs/TCS/chap8.pdf)                                                                 |
-| 9  |                                                                                                           |
+| 9  | [Calcul trigonométrique](pdfs/TCS/chap9.pdf)                                                              |
 | 10 |                                                                                                           |
 
 ## Support et Contact
