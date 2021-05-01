@@ -14,11 +14,11 @@ Liste des cours et TDs, téléchargeable en format pdf, de la deuxième année d
 | 4  | [Fonctions logarithmiques &emsp; الدوال اللوغاريتمية](pdfs/2BSVT/chap4.pdf)         | TD4                       |
 | 5  | [Fonctions exponnentielles &emsp; الدوال الأسية](pdfs/2BSVT/chap5.pdf)               | TD5                       |
 | 6  | [Nombres complexes &emsp; الأعداد العقدية](pdfs/2BSVT/chap6.pdf)                     | TD6                       |
-| 7  | Équations différentielles &emsp; المعادلات التفاضلية                                  |                           |
-| 8  | Calcul intégral &emsp; الحساب التكاملي                                               |                           |
-| 9  | Produit scalaire dans l'espace &emsp; الجداء السلمي في الفضاء                         |                           |
-| 10 | Produit vectoriel &emsp; الجداء المتجهي                                               |                           |
-| 11 | Probabilités &emsp; الإحتمالات                                                        |                           |
+| 7  | Équations différentielles &emsp; المعادلات التفاضلية                                  | TD7                       |
+| 8  | [Calcul intégral &emsp; الحساب التكاملي](pdfs/2BSVT/chap8.pdf)                       | TD8                       |
+| 9  | Produit scalaire dans l'espace &emsp; الجداء السلمي في الفضاء                         | TD9                       |
+| 10 | Produit vectoriel &emsp; الجداء المتجهي                                               | TD10                      |
+| 11 | Probabilités &emsp; الإحتمالات                                                        | TD11                      |
 
 Liste des cours et TDs, téléchargeable en format pdf, de la première année du Baccalauréat section Sciences Expérimentales (SE), indisponsable pour 2BSVT.
 
