@@ -1,10 +1,10 @@
 ## Accueil
 
-Cette page est mise en place pour servir des cours et d'autres documents à mes éléves du TCS et du 2BSVT de l'année scolaire 2020-2021.
+Cette page est mise en place pour servir des cours et d'autres documents aux éléves du TCSF et du 2BacPC de l'année scolaire 2021-2022.
 
-## Cours et TDs 2BSVT
+## Cours et TDs 2BacPC
 
-Liste des cours et TDs, téléchargeable en format pdf, de la deuxième année du Baccalauréat section Sciences de la Vie et de la Terre (SVT).
+Liste des cours et TDs, téléchargeable en format pdf, pour 2BacPC.
 
 |    | Chapitre                                                                            | Série                     |
 |:--:|-------------------------------------------------------------------------------------|:-------------------------:|
@@ -20,7 +20,7 @@ Liste des cours et TDs, téléchargeable en format pdf, de la deuxième année d
 | 10 | Produit vectoriel &emsp; الجداء المتجهي                                               | TD10                      |
 | 11 | Probabilités &emsp; الإحتمالات                                                        | TD11                      |
 
-Liste des cours et TDs, téléchargeable en format pdf, de la première année du Baccalauréat section Sciences Expérimentales (SE), indisponsable pour 2BSVT.
+Liste des cours et TDs, téléchargeable en format pdf, pour 1BacSE, indisponsable pour 2BacPC.
 
 |    | Chapitre                                                                                    | Série                      |
 |:--:|---------------------------------------------------------------------------------------------|:--------------------------:|
@@ -32,7 +32,7 @@ Liste des cours et TDs, téléchargeable en format pdf, de la première année d
 
 ## Cours avec TDs TCS
 
-Liste des cours avec TDs, téléchargeable en format pdf, du Tronc Commun Scientifique (TCS) du Baccalauréat International Option Française (BIOF).
+Liste des cours avec TDs, téléchargeable en format pdf, pour TCSBIOF.
 
 |    | Chapitre                                                                                                  |
 |:--:|-----------------------------------------------------------------------------------------------------------|
