@@ -39,6 +39,7 @@ Liste des cours avec TDs, téléchargeable en format pdf, pour TCSBIOF.
 | 1  | [Ensemble $\mathbb{N}$ et notions d'arithmétique](pdfs/TCS/chap1.pdf)                                     |
 | 2  | [Calcul vectoriel dans le plan](pdfs/TCS/chap2.pdf)                                                       |
 | 3  | [Ensembles $\mathbb{N}$, $\mathbb{Z}$, $\mathbb{D}$, $\mathbb{Q}$ et $\mathbb{R}$](pdfs/TCS/chap3.pdf)    |
+| -  | [Devoir libre 1 avec correction](pdfs/TCS/DL1.pdf)                                                             |
 | 4  | [Projection dans le plan](pdfs/TCS/chap4.pdf)                                                             |
 | 5  | [Ordre dans $\mathbb{R}$](pdfs/TCS/chap5.pdf)                                                             |
 | 6  | [Polynômes](pdfs/TCS/chap6.pdf)                                                                           |
