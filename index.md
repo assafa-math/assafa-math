@@ -43,6 +43,7 @@ Liste des cours avec TDs, téléchargeable en format pdf, pour TCSBIOF.
 | 4  | [Projection dans le plan](pdfs/TCS/chap4.pdf)                                                             |
 | 5  | [Ordre dans $\mathbb{R}$](pdfs/TCS/chap5.pdf)                                                             |
 | 6  | [Polynômes](pdfs/TCS/chap6.pdf)                                                                           |
+| -  | [Devoir libre 2](pdfs/TCS/DL2.pdf)                                                        |
 | 7  | [Droite dans le plan](pdfs/TCS/chap7.pdf)                                                                 |
 | 8  | [Équations, inéquations et systèmes](pdfs/TCS/chap8.pdf)                                                  |
 | 9  | [Calcul trigonométrique](pdfs/TCS/chap9.pdf)                                                              |
