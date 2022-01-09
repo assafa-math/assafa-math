@@ -34,20 +34,20 @@ Liste des cours et TDs, téléchargeable en format pdf, pour 1BacSE, indisponsab
 
 Liste des cours avec TDs, téléchargeable en format pdf, pour TCSBIOF.
 
-|    | Chapitre                                                                                                  |
-|:--:|-----------------------------------------------------------------------------------------------------------|
-| 1  | [Ensemble $\mathbb{N}$ et notions d'arithmétique](pdfs/TCS/chap1.pdf)                                     |
-| 2  | [Calcul vectoriel dans le plan](pdfs/TCS/chap2.pdf)                                                       |
-| 3  | [Ensembles $\mathbb{N}$, $\mathbb{Z}$, $\mathbb{D}$, $\mathbb{Q}$ et $\mathbb{R}$](pdfs/TCS/chap3.pdf)    |
-| -  | [Devoir libre 1 avec correction](pdfs/TCS/DL1.pdf)                                                        |
-| 4  | [Projection dans le plan](pdfs/TCS/chap4.pdf)                                                             |
-| 5  | [Ordre dans $\mathbb{R}$](pdfs/TCS/chap5.pdf)                                                             |
-| 6  | [Polynômes](pdfs/TCS/chap6.pdf)                                                                           |
-| -  | [Devoir libre 2](pdfs/TCS/DL2.pdf)                                                        |
-| 7  | [Droite dans le plan](pdfs/TCS/chap7.pdf)                                                                 |
-| 8  | [Équations, inéquations et systèmes](pdfs/TCS/chap8.pdf)                                                  |
-| 9  | [Calcul trigonométrique](pdfs/TCS/chap9.pdf)                                                              |
-| 10 |                                                                                                           |
+|    | Chapitre                                                                                                  | Vidéos               |
+|:--:|-----------------------------------------------------------------------------------------------------------|----------------------|
+| 1  | [Ensemble $\mathbb{N}$ et notions d'arithmétique](pdfs/TCS/chap1.pdf)                                     |                      |
+| 2  | [Calcul vectoriel dans le plan](pdfs/TCS/chap2.pdf)                                                       |                      |
+| 3  | [Ensembles $\mathbb{N}$, $\mathbb{Z}$, $\mathbb{D}$, $\mathbb{Q}$ et $\mathbb{R}$](pdfs/TCS/chap3.pdf)    |                      |
+| -  | [Devoir libre 1 avec correction](pdfs/TCS/DL1.pdf)                                                        |                      |
+| 4  | [Projection dans le plan](pdfs/TCS/chap4.pdf)                                                             |                      |
+| 5  | [Ordre dans $\mathbb{R}$](pdfs/TCS/chap5.pdf)                                                             |                      |
+| 6  | [Polynômes](pdfs/TCS/chap6.pdf)                                                                           |                      |
+| -  | [Devoir libre 2](pdfs/TCS/DL2.pdf)                                                                        | [Playlist 1](https://www.youtube.com/watch?v=_zMIJM0wclI&list=PLnm-difRg2I6uS8gdf2z3AzozdwsorgkE) -- [Playlist 2](https://www.youtube.com/watch?v=XqUPVraEV9s&list=PLnm-difRg2I7cOLhxqnZW_nkGkxbrbG3Q)     |
+| 7  | [Droite dans le plan](pdfs/TCS/chap7.pdf)                                                                 | [Playlist](https://www.youtube.com/watch?v=81GnfsW675M&list=PLnm-difRg2I4GANooAuojrVcl6FM2Nr79)     |
+| 8  | [Équations, inéquations et systèmes](pdfs/TCS/chap8.pdf)                                                  |                      |
+| 9  | [Calcul trigonométrique](pdfs/TCS/chap9.pdf)                                                              |                      |
+| 10 |                                                                                                           |                      |
 
 ## Support et Contact
 
