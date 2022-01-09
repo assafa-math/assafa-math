@@ -35,7 +35,7 @@ Liste des cours et TDs, téléchargeable en format pdf, pour 1BacSE, indisponsab
 Liste des cours avec TDs, téléchargeable en format pdf, pour TCSBIOF.
 
 |    | Chapitre                                                                                                  | Vidéos               |
-|:--:|-----------------------------------------------------------------------------------------------------------|----------------------|
+|:--:|-----------------------------------------------------------------------------------------------------------|:----------------------:|
 | 1  | [Ensemble $\mathbb{N}$ et notions d'arithmétique](pdfs/TCS/chap1.pdf)                                     |                      |
 | 2  | [Calcul vectoriel dans le plan](pdfs/TCS/chap2.pdf)                                                       |                      |
 | 3  | [Ensembles $\mathbb{N}$, $\mathbb{Z}$, $\mathbb{D}$, $\mathbb{Q}$ et $\mathbb{R}$](pdfs/TCS/chap3.pdf)    |                      |
