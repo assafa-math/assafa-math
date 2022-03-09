@@ -47,7 +47,8 @@ Liste des cours avec TDs, téléchargeable en format pdf, pour TCSBIOF.
 | 7  | [Droite dans le plan](pdfs/TCS/chap7.pdf)                                                                 | [Playlist](https://www.youtube.com/watch?v=81GnfsW675M&list=PLnm-difRg2I4GANooAuojrVcl6FM2Nr79)     |
 | 8  | [Équations, inéquations et systèmes](pdfs/TCS/chap8.pdf)                                                  |                      |
 | 9  | [Calcul trigonométrique](pdfs/TCS/chap9.pdf)                                                              |                      |
-| 10 |                                                                                                           |                      |
+| 10 | [Transformations dans le plan](pdfs/TCS/chap10.pdf)                                                       |                      |
+| 11 |                                                                                                           |                      |
 
 ## Support et Contact
 
