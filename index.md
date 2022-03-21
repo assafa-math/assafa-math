@@ -49,7 +49,8 @@ Liste des cours avec TDs, téléchargeable en format pdf, pour TCSBIOF.
 | 9  | [Calcul trigonométrique](pdfs/TCS/chap9.pdf)                                                              |                      |
 | -  | [Devoir libre 4](pdfs/TCS/DL4.pdf)                                                                        |                      |
 | 10 | [Transformations dans le plan](pdfs/TCS/chap10.pdf)                                                       |                      |
-| 11 |                                                                                                           |                      |
+| 11 | [Généralités sur les fonctions](pdfs/TCS/chap11.pdf)                                                      |                      |
+| 12 |                                                                                                           |                      |
 
 ## Support et Contact
 
